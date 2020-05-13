@@ -1,0 +1,12 @@
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\bin\Debug\ZenWriter.exe.config
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\bin\Debug\ZenWriter.exe
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\bin\Debug\ZenWriter.pdb
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.csprojAssemblyReference.cache
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.Form1.resources
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.Properties.Resources.resources
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.csproj.GenerateResource.cache
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.csproj.CoreCompileInputs.cache
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.exe
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.pdb
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.CustomRichBox.resources
+C:\Users\Coldhammer\source\repos\ZenWriter\ZenWriter\obj\Debug\ZenWriter.TranslucentPanel.resources
